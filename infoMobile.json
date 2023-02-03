@@ -1,0 +1,38 @@
+{
+    "msg": "Successfully Read",
+    "err": "0",
+    "objname": "remote/refInfoMobile.do",
+    "GetInfolist": [
+        {
+            "strDescription": "downSystem=false",
+            "strCode": "0",
+            "strValue": "false"
+        },
+        {
+            "strDescription": "allowDismissalUpdate=true",
+            "strCode": "1",
+            "strValue": "true"
+        },
+        {
+            "strDescription": "url=caam",
+            "strCode": "2",
+            "strValue": "caam"
+        },
+        {
+            "strDescription": "versionAndroid=1.0.17",
+            "strCode": "3",
+            "strValue": "1.0.19"
+        },
+        {
+            "strDescription": "versionIOS=1.0.17",
+            "strCode": "4",
+            "strValue": "1.0.17"
+        },
+        {
+            "strDescription": "updateMobile",
+            "strCode": "5",
+            "strValue": "true"
+        }
+    ],
+    "status": "1"
+}
