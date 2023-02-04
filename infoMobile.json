@@ -19,12 +19,12 @@
             "strValue": "caam"
         },
         {
-            "strDescription": "versionAndroid=1.0.17",
+            "strDescription": "versionAndroid",
             "strCode": "3",
-            "strValue": "1.0.18"
+            "strValue": "1.0.19"
         },
         {
-            "strDescription": "versionIOS=1.0.17",
+            "strDescription": "versionIOS",
             "strCode": "4",
             "strValue": "1.0.17"
         },
