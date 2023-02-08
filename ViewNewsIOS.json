@@ -1,0 +1,17 @@
+{
+    "msg": "Successfully Read",
+    "news": [
+        {
+            "strDescription": "New Update",
+            "strPlatform": "android",
+            "strNewsdate": "30/01/2023",
+            "strValue": "Update",
+            "strNewspath": "",
+            "strNewsstatus": "0"
+        }
+    ],
+    "err": "0",
+    "objname": "remote/ViewNews.do",
+    "totrecords": 2,
+    "status": "1"
+}
