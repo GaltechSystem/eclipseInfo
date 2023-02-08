@@ -2,8 +2,8 @@
     "msg": "Successfully Read",
     "news": [
         {
-            "strDescription": "New Update",
-            "strPlatform": "android",
+            "strDescription": "New Update IOS",
+            "strPlatform": "ios",
             "strNewsdate": "30/01/2023",
             "strValue": "Update",
             "strNewspath": "",

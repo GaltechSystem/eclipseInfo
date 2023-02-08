@@ -2,7 +2,7 @@
     "msg": "Successfully Read",
     "news": [
         {
-            "strDescription": "New Update",
+            "strDescription": "New Update Android",
             "strPlatform": "android",
             "strNewsdate": "30/01/2023",
             "strValue": "Update",
