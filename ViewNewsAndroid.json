@@ -6,16 +6,8 @@
             "strPlatform": "android",
             "strNewsdate": "30/01/2023",
             "strValue": "Update",
-            "strNewspath": "https://eclipse.caam.gov.my/ELICENSING/images/assets/BAW.png",
-            "strNewsstatus": "0"
-        },
-        {
-            "strDescription": "New Update",
-            "strPlatform": "android",
-            "strNewsdate": "30/01/2023",
-            "strValue": "Update",
             "strNewspath": "",
-            "strNewsstatus": ""
+            "strNewsstatus": "0"
         }
     ],
     "err": "0",
