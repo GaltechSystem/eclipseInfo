@@ -8,6 +8,14 @@
             "strValue": "Update",
             "strNewspath": "https://eclipse.caam.gov.my/ELICENSING/assets/img/Landing_Page@0.25x.png",
             "strNewsstatus": "0"
+        },
+        {
+            "strDescription": "New Update IOS",
+            "strPlatform": "ios",
+            "strNewsdate": "30/01/2023",
+            "strValue": "Update",
+            "strNewspath": "https://eclipse.caam.gov.my/ELICENSING/assets/img/Landing_Page@0.25x.png",
+            "strNewsstatus": "0"
         }
     ],
     "err": "0",
