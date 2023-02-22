@@ -9,7 +9,7 @@
             "strValue": "false"
         },
         {
-            "strDescription": "allowDismissalUpdate=true",
+            "strDescription": "allowDismissalUpdateAndroid",
             "strCode": "1",
             "strValue": "true"
         },
@@ -36,6 +36,11 @@
         {
             "strDescription": "updateMobileIOS",
             "strCode": "6",
+            "strValue": "true"
+        },
+        {
+            "strDescription": "allowDismissalUpdateIOS",
+            "strCode": "1",
             "strValue": "true"
         }
     ],
