@@ -2,7 +2,7 @@
     "msg": "Successfully Read",
     "news": [
         {
-            "strDescription": "New Version 1.0.25",
+            "strDescription": "New Version 1.0.25\nUI Medical Pin",
             "strPlatform": "android",
             "strNewsdate": "22/02/2023",
             "strValue": "Update",
