@@ -2,7 +2,7 @@
     "msg": "Successfully Read",
     "news": [
         {
-            "strDescription": "New Version 1.0.25\nImproved stability",
+            "strDescription": "New Version 1.0.25\nImproved stability and performance",
             "strPlatform": "android",
             "strNewsdate": "22/02/2023",
             "strValue": "Update",
