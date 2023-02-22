@@ -40,7 +40,7 @@
         },
         {
             "strDescription": "allowDismissalUpdateIOS",
-            "strCode": "1",
+            "strCode": "7",
             "strValue": "true"
         }
     ],
