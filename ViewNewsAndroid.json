@@ -2,11 +2,11 @@
     "msg": "Successfully Read",
     "news": [
         {
-            "strDescription": "New Update Android",
+            "strDescription": "New Version 1.0.25",
             "strPlatform": "android",
-            "strNewsdate": "30/01/2023",
+            "strNewsdate": "22/02/2023",
             "strValue": "Update",
-            "strNewspath": "https://eclipse.caam.gov.my/ELICENSING/assets/img/Landing_Page@0.25x.png",
+            "strNewspath": "",
             "strNewsstatus": "0"
         }
     ],
