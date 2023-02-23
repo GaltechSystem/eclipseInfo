@@ -8,6 +8,14 @@
             "strValue": "Update",
             "strNewspath": "",
             "strNewsstatus": "0"
+        },
+        {
+            "strDescription": "Preview",
+            "strPlatform": "android",
+            "strNewsdate": "22/02/2023",
+            "strValue": "QRCode full view",
+            "strNewspath": "https://eclipse.caam.gov.my/ELICENSING/images/m/previewqr.gif",
+            "strNewsstatus": "0"
         }
     ],
     "err": "0",
