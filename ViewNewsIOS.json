@@ -2,11 +2,19 @@
     "msg": "Successfully Read",
     "news": [
         {
-            "strDescription": "New Update IOS",
+            "strDescription": "-New Version 1.0.25\n Improved stability \n QRCode full view",
             "strPlatform": "ios",
-            "strNewsdate": "30/01/2023",
+            "strNewsdate": "22/02/2023",
             "strValue": "Update",
-            "strNewspath": "https://eclipse.caam.gov.my/ELICENSING/assets/img/Landing_Page@0.25x.png",
+            "strNewspath": "",
+            "strNewsstatus": "0"
+        },
+        {
+            "strDescription": "Preview",
+            "strPlatform": "ios",
+            "strNewsdate": "22/02/2023",
+            "strValue": "QRCode full view",
+            "strNewspath": "https://eclipse.caam.gov.my/ELICENSING/images/m/previewqr.gif",
             "strNewsstatus": "0"
         }
     ],
