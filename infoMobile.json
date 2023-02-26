@@ -36,7 +36,7 @@
         {
             "strDescription": "updateMobileIOS",
             "strCode": "6",
-            "strValue": "false"
+            "strValue": "true"
         },
         {
             "strDescription": "allowDismissalUpdateIOS",
