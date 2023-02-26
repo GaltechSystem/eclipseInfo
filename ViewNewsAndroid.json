@@ -2,7 +2,7 @@
     "msg": "Successfully Read",
     "news": [
         {
-            "strDescription": "-New Version 1.0.28\n Improved stability \n QRCode full view",
+            "strDescription": "-New Version 1.0.29\n Improved stability \n QRCode full view",
             "strPlatform": "android",
             "strNewsdate": "26/02/2023",
             "strValue": "Update",
