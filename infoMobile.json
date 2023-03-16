@@ -4,7 +4,7 @@
     "objname": "remote/refInfoMobile.do",
     "GetInfolist": [
         {
-            "strDescription": "downSystem=true",
+            "strDescription": "downSystem=false",
             "strCode": "0",
             "strValue": "true"
         },
