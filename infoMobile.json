@@ -6,7 +6,7 @@
         {
             "strDescription": "downSystem=false",
             "strCode": "0",
-            "strValue": "false"
+            "strValue": "true"
         },
         {
             "strDescription": "allowDismissalUpdateAndroid",
