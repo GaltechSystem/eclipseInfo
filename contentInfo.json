@@ -1,0 +1,18 @@
+{
+    "msg": "Successfully Read",
+    "news": [
+        {
+            "strCode": "0",
+            "strDescription0": "",
+            "strDescriptio1": "",
+            "strDescriptio2": "",
+            "strdate": "26/02/2023",
+            "strValue": "true",
+            "strImagepath": ""
+        }
+    ],
+    "err": "0",
+    "objname": "remote/viewContent.do",
+    "totrecords": 2,
+    "status": "1"
+}
