@@ -3,9 +3,9 @@
     "info": [
         {
             "strCode": "0",
-            "strDescription0": "",
-            "strDescriptio1": "",
-            "strDescriptio2": "",
+            "strDescription0": "maintenance is underway.",
+            "strDescription1": "sorry you cant use the app for a while",
+            "strDescription2": "",
             "strdate": "26/02/2023",
             "strValue": "true",
             "strImagepath": ""
