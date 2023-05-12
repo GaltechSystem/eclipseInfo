@@ -42,6 +42,11 @@
             "strDescription": "allowDismissalUpdateIOS",
             "strCode": "7",
             "strValue": "true"
+        },
+        {
+            "strDescription": "demoDrone",
+            "strCode": "8",
+            "strValue": "true"
         }
     ],
     "status": "1"
