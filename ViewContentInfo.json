@@ -1,0 +1,20 @@
+{
+    "msg": "Successfully Read",
+    "info": [
+        {
+            "strCode": "0",
+            "strTitle": "maintenance is underway.",
+            "strDescription0": "maintenance is underway.sorry you cant use the app for a while",
+            "strDescription1": "",
+            "strDescription2": "",
+            "strtime": "Time: ",
+            "strdate": "Date: ",
+            "strValue": "false",
+            "strImagepath": ""
+        }
+    ],
+    "err": "0",
+    "objname": "remote/viewContent.do",
+    "totrecords": 2,
+    "status": "1"
+}
