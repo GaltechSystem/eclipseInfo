@@ -44,7 +44,7 @@
             "strValue": "true"
         },
         {
-            "strDescription": "demoDrone",
+            "strDescription": "demoDrone=false",
             "strCode": "8",
             "strValue": "true"
         }
