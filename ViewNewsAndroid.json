@@ -2,6 +2,14 @@
     "msg": "Successfully Read",
     "news": [
         {
+            "strDescription": "Privacy Policy",
+            "strPlatform": "android",
+            "strNewsdate": "15/05/2023",
+            "strValue": "Update",
+            "strNewspath": "",
+            "strNewsstatus": "0"
+        },
+        {
             "strDescription": "-New Version 1.0.29\n Improved stability \n QRCode full view",
             "strPlatform": "android",
             "strNewsdate": "26/02/2023",

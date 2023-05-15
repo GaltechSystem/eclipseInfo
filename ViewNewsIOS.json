@@ -2,6 +2,14 @@
     "msg": "Successfully Read",
     "news": [
         {
+            "strDescription": "Privacy Policy",
+            "strPlatform": "ios",
+            "strNewsdate": "15/05/2023",
+            "strValue": "Update",
+            "strNewspath": "",
+            "strNewsstatus": "0"
+        },
+        {
             "strDescription": "-New Version 1.0.25\n Improved stability \n QRCode full view",
             "strPlatform": "ios",
             "strNewsdate": "26/02/2023",
