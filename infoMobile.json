@@ -44,9 +44,9 @@
             "strValue": "true"
         },
         {
-            "strDescription": "demoDronePDF=true",
+            "strDescription": "demoDronePDF=false",
             "strCode": "8",
-            "strValue": "https://eclipse.caam.gov.my/STG/FCLLicenseMobilePDF.do?methodToCall=print&reportType=PDF&PersonID=101011035059"
+            "strValue": ""
         }
     ],
     "status": "1"
