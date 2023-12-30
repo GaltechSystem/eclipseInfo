@@ -3,12 +3,12 @@
     "info": [
         {
             "strCode": "0",
-            "strTitle": "maintenance is underway.",
-            "strDescription0": "maintenance is underway.sorry you cant use the app for a while",
+            "strTitle": "The eCLIPSE system will be under maintenance on January 1, 2024, starting at 12:00. midnight. The system will be operational at 8 a.m. on January 1, 2024.",
+            "strDescription0": "We apologize for the inconvenience. Thank you            ",
             "strDescription1": "",
             "strDescription2": "",
-            "strtime": "Time: ",
-            "strdate": "Date: ",
+            "strtime": "",
+            "strdate": "",
             "strValue": "false",
             "strImagepath": ""
         }
