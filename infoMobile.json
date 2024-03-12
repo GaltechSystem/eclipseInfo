@@ -31,12 +31,12 @@
         {
             "strDescription": "updateMobileAndroid",
             "strCode": "5",
-            "strValue": "true"
+            "strValue": "false"
         },
         {
             "strDescription": "updateMobileIOS",
             "strCode": "6",
-            "strValue": "true"
+            "strValue": "false"
         },
         {
             "strDescription": "allowDismissalUpdateIOS",
