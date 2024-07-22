@@ -11,7 +11,7 @@
         {
             "strDescription": "allowDismissalUpdateAndroid",
             "strCode": "1",
-            "strValue": "true"
+            "strValue": "false"
         },
         {
             "strDescription": "url=caam",
@@ -31,7 +31,7 @@
         {
             "strDescription": "updateMobileAndroid",
             "strCode": "5",
-            "strValue": "true"
+            "strValue": "false"
         },
         {
             "strDescription": "updateMobileIOS",
