@@ -2,7 +2,15 @@
     "msg": "Successfully Read",
     "news": [
         {
-            "strDescription": "Privacy Policy ",
+            "strDescription": "New Version 1.0.41",
+            "strPlatform": "android",
+            "strNewsdate": "25/07/2024",
+            "strValue": "Update",
+            "strNewspath": "",
+            "strNewsstatus": "0"
+        },
+        {
+            "strDescription": "Privacy Policy",
             "strPlatform": "android",
             "strNewsdate": "15/05/2023",
             "strValue": "Update",
