@@ -26,7 +26,7 @@
         {
             "strDescription": "versionIOS",
             "strCode": "4",
-            "strValue": "1.0.46"
+            "strValue": "2.0.0"
         },
         {
             "strDescription": "updateMobileAndroid",
@@ -36,7 +36,7 @@
         {
             "strDescription": "updateMobileIOS",
             "strCode": "6",
-            "strValue": "false"
+            "strValue": "true"
         },
         {
             "strDescription": "allowDismissalUpdateIOS",
