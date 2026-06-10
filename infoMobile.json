@@ -21,22 +21,22 @@
         {
             "strDescription": "versionAndroid",
             "strCode": "3",
-            "strValue": "2.0.9"
+            "strValue": "2.0.15"
         },
         {
             "strDescription": "versionIOS",
             "strCode": "4",
-            "strValue": "2.0.10"
+            "strValue": "2.0.16"
         },
         {
             "strDescription": "updateMobileAndroid",
             "strCode": "5",
-            "strValue": "true"
+            "strValue": "false"
         },
         {
             "strDescription": "updateMobileIOS",
             "strCode": "6",
-            "strValue": "false"
+            "strValue": "true"
         },
         {
             "strDescription": "allowDismissalUpdateIOS",
